@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Dotlines Group, Singapore as Business Development Executive  
+🔭 I’m currently working for Dotlines Group, multinational company from Singapore as a Business Development   
 🌱 I’m currently learning Machine Learning and Front-End Web Development    
 👯 I’m currently studying at STMIK Antar Bangsa  
 
